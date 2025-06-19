@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: anujscan
+Version: 1.0.0
+Summary: AnujScan - A CLI Penetration Testing Toolkit
+Author: Anuj Prajapati
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: requests
+Requires-Dist: python-whois
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary
