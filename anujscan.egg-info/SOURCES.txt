@@ -2,6 +2,8 @@ MANIFEST.in
 README.md
 setup.py
 anujscan/__init__.py
+anujscan/__main__.py
+anujscan/gui.py
 anujscan/toolkit.py
 anujscan.egg-info/PKG-INFO
 anujscan.egg-info/SOURCES.txt
@@ -9,6 +11,7 @@ anujscan.egg-info/dependency_links.txt
 anujscan.egg-info/entry_points.txt
 anujscan.egg-info/requires.txt
 anujscan.egg-info/top_level.txt
+anujscan/assets/logo.png
 anujscan/data/__init__.py
 anujscan/data/common.txt
 anujscan/modules/__init__.py
